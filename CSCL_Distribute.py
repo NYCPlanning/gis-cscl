@@ -9,7 +9,7 @@ fail as all other available arcpy versions lack the metadata functionality tools
 # Set configuration file path
 
 config = ConfigParser.ConfigParser()
-config.read(r"G:\SCRIPTS\Open_Data_CSCL_Scrape\ini\CSCL_Scrape_config.ini")
+config.read(r"CSCL_Scrape_config_template.ini")
 
 # Define necessary paths
 
